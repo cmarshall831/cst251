@@ -1,0 +1,49 @@
+#contents {
+  background-color: seagreen;
+  color: black;
+  width: 400px;
+  height: auto;
+  margin-left:auto;
+  margin-right: auto;
+}
+
+#images:hover {
+  transform: scale(1.5);
+}
+
+
+#images{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.challenges {
+  background-color: tan;
+  margin: auto;
+}
+
+p {
+  color:black;
+}
+
+.home {
+  margin-left: auto;
+  margin-right: auto;
+  color: black;
+
+}
+
+body {
+  background-color: orange;
+  margin: 10px;
+  border-style: solid;
+  border-color: black;
+  font-family: fantasy;
+
+}
+
+.results {
+  vertical-align: center;
+
+}
