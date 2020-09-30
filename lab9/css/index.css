@@ -1,0 +1,37 @@
+#content {
+  background-color: black;
+  height: 1200px;
+  text-align: center;
+  border-style: dashed;
+  border-color: orange;
+  margin: 200px;
+  padding: inherit;
+}
+
+#header {
+  color: white;
+  font-family: cursive;
+}
+
+#challenge {
+  color: white;
+  font-family: cursive;
+}
+
+#problems {
+  color: white;
+  font-family: cursive;
+}
+
+#results {
+  color: white;
+  font-family: cursive;
+}
+
+body {
+  background-color: grey;
+}
+
+img {
+  border-radius: 80%;
+}
