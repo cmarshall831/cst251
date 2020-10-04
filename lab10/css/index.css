@@ -1,0 +1,43 @@
+#content {
+  background-color: black;
+  height: 1200px;
+  text-align: center;
+  border-style: dashed;
+  border-color: orange;
+  margin: 200px;
+  padding: inherit;
+}
+
+#header {
+  color: white;
+  font-family: cursive;
+  font-style: oblique;
+  font-size: 25px;
+  text-transform: uppercase;
+}
+
+#challenge {
+  color: green;
+  font-family: monospace;
+  font-size: 20px;
+
+}
+
+#problems {
+  color: lightblue;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+#results {
+  color: beige;
+  font-family: cursive;
+}
+
+body {
+  background-color: grey;
+}
+
+img {
+  border-radius: 80%;
+}
