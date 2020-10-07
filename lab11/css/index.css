@@ -1,0 +1,36 @@
+
+aside {
+  height: 100%;
+    width: 33%;
+    min-width: 300px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+background-color: beige;
+border: dotted;
+}
+
+#content{
+  background-color: lightpink;
+  text-align: left;
+  padding: 60px;
+  width: 800px;
+  border: dotted;
+}
+
+#filler {
+  width: 250px
+}
+
+#challenges {
+font-weight: bold;
+}
+
+body {
+  background-color: lightblue;
+}
