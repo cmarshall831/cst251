@@ -1,0 +1,48 @@
+body {
+  background-color: white;
+  display:flex;
+  margin-left: 75px;
+  padding-top: 20px;
+}
+
+#right-side {
+height: 1100px;
+}
+
+#left-side {
+
+
+}
+
+left-text {
+  font-family: 'Lora', serif;
+
+}
+
+right-text {
+  font-family: 'lora', serif;
+}
+
+h1 {
+  font-family: 'Nanum Myeongjo'
+  font-weight: bold;
+}
+
+p {
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+#right-image img {
+width: 300px;
+margin-left: 25%;
+height: 300px;
+}
+
+#left-image img {
+margin-left: 75px;
+width: 300px;
+height: 300px;
+
+
+}
