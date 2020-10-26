@@ -1,0 +1,63 @@
+body {
+  background-color: red;
+  background-image: url(https://www.slashgear.com/wp-content/uploads/2020/04/star-wars-backgrounds-25.jpg),
+  url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/91dc1964120315.5ac77335ae374.png),
+  url(https://mir-s3-cdn-cf.behance.net/project_modules/1400/91dc1964120315.5ac77335ae374.png);
+ background-position: center, left, right;
+ background-size: 700px 1000px;
+ background-repeat: no-repeat;
+ width: auto;
+}
+
+#content {
+
+}
+
+.header {
+  font-size: 30px;
+  text-shadow: 4px 4px darkgrey;
+  font-family: monospace;
+  font-style: oblique;
+  color: yellow;
+  text-align: center;
+
+}
+
+
+
+
+.challenge {
+text-align: right;
+color: yellow;
+
+
+
+}
+
+.problems {
+text-align: right;
+  color: yellow;
+  
+
+}
+
+.results {
+text-align: center;
+  color: yellow;
+
+}
+
+.images {
+text-align: center;
+  transition: opacity 5s;
+
+}
+
+.images:hover {
+
+  opacity: 0;
+
+}
+.links {
+text-align: center;
+}
