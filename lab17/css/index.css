@@ -1,0 +1,65 @@
+body {
+  border: solid 3px black;
+  background-color: darkred;
+
+
+}
+
+.header {
+  padding: 20px;
+  text-align: center;
+
+}
+
+.links {
+  overflow: hidden;
+  padding: 10px;
+  border: 5px dotted black;
+
+
+}
+
+.links a {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    color: black;
+
+}
+
+.links a:hover {
+  background: white;
+
+}
+
+.challenge {
+  display: block;
+  text-align: center;
+  font-size: 22px;
+}
+
+.problems {
+  display: block;
+  text-align: center;
+  font-size: 22px;
+
+
+}
+
+.results {
+  display: block;
+text-align: center;
+font-size: 22px;
+
+}
+
+.footer {
+  display: block;
+  text-align: center;
+
+}
+
+img {
+  display: block;
+  padding-left: 41%;
+ }

@@ -1,0 +1,49 @@
+body {
+background: tan;
+}
+
+.header {
+text-align: center;
+}
+
+.links {
+  float:left;
+  padding-left: 10px;
+  border: 3px solid black;
+  width: 25%;
+  text-align: center;
+  width: 33%;
+}
+
+.links:hover {
+  background: black;
+}
+
+.challenge {
+  float: right;
+padding-right: 10px;
+border: 3px solid black;
+text-align: center;
+width: 33%;
+
+}
+
+.problems {
+  float: right;
+  clear: both;
+  padding-right: 10px;
+  border: 3px solid black;
+  text-align: center;
+  width: 33%;
+}
+
+.results {
+text-align: center;
+}
+
+.footer {
+  text-align: center;
+  clear: both;
+
+
+}
