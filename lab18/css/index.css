@@ -7,17 +7,12 @@ body {
 aside {
 text-align: center;
 background: lightgrey;
-
-
-
 }
 
 aside img {
   max-width: 250px;
   filter: drop-shadow(8px 8px 8px blue);
   text-align: center;
-
-
 }
 
 header {
@@ -30,35 +25,19 @@ text-align: center;
 background: grey;
 }
 
-
-
-
-
-
-
-
 .links {
   font-family: monospace;
   background: black;
   color: white;
-
-
-
 }
 
 .links a {
     display: block;
     padding: 10px;
-
-
 }
 
 .links a:hover {
   background: white; }
-
-
-
-
 
 @media screen (max-width: 800px) {
   .left, .right, .main {
@@ -69,5 +48,3 @@ background: grey;
     display: flex;
 
   }
-
-}
