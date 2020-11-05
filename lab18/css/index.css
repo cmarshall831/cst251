@@ -1,0 +1,73 @@
+body {
+  background-image: radial-gradient(lightblue, lightpink);
+  background-image: url(https://media.istockphoto.com/photos/holographic-background-picture-id964809716?k=6&m=964809716&s=612x612&w=0&h=I1qw3JQ2t3mbChhYaqkT3HZ8lMFW8bKZqnNb2ZLwVus=);
+  background-position: center;
+}
+
+aside {
+text-align: center;
+background: lightgrey;
+
+
+
+}
+
+aside img {
+  max-width: 250px;
+  filter: drop-shadow(8px 8px 8px blue);
+  text-align: center;
+
+
+}
+
+header {
+top: 0;
+background: lightgrey;
+}
+
+main {
+text-align: center;
+background: grey;
+}
+
+
+
+
+
+
+
+
+.links {
+  font-family: monospace;
+  background: black;
+  color: white;
+
+
+
+}
+
+.links a {
+    display: block;
+    padding: 10px;
+
+
+}
+
+.links a:hover {
+  background: white; }
+
+
+
+
+
+@media screen (max-width: 800px) {
+  .left, .right, .main {
+    width: 100%; }
+  }
+
+  .flex {
+    display: flex;
+
+  }
+
+}
