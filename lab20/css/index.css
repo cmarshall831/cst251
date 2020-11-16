@@ -1,0 +1,57 @@
+#content {
+  background-color: black;
+  height: auto;
+  text-align: center;
+  border-style: dashed;
+  border-color: lightyellow;
+  margin: 100px;
+  padding: inherit;
+}
+
+#header {
+  color: lightyellow;
+  font-family: cursive;
+  font-style: oblique;
+  font-size: 25px;
+  text-transform: uppercase;
+}
+
+#challenge {
+  color: beige;
+  font-family: monospace;
+  font-size: 20px;
+
+}
+
+#problems {
+  color: tan;
+  font-family: sans-serif;
+  font-size: 15px;
+}
+
+#results {
+  color: lightgrey;
+  font-family: cursive;
+}
+
+.links {
+text-align: center;
+}
+
+.links:hover {
+  background: white;
+}
+
+img {
+  width: 400px;
+}
+
+#one {border: 5px solid white;}
+#two {border: 5px solid white;}
+#three {border: 5px solid white;}
+#four {border: 5px solid white;}
+#five {border: 5px solid white;}
+
+body {
+  background-color: orangered;
+}
